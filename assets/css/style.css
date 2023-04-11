@@ -1,0 +1,16 @@
+nav {
+    height: 10vh;
+}
+
+#mainWrapper {
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpapercave.com%2Fwp%2FXtD6F8X.png&f=1&nofb=1&ipt=79690e014766518352b02da9c799c7557a0b43e43533705a42411858a7b2e56e&ipo=images');
+    min-height: 90vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.digiContainer {
+    min-height: 250px;
+}
